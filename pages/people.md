@@ -62,11 +62,19 @@ permalink: "/people/"
 	<div class="row">
 		{% include member.html photo="../images/people/zhaopian.jpg" name="姜维" title="硕士三年级在读" %}
 
-		{% include member.html photo="../images/people/lizhen.jpg" name="李震" title="硕士三年级在读" %}
+		{% include member.html photo="../images/people/zhaopian.jpg" name="李震" title="硕士三年级在读" %}
 
 		{% include member.html photo="../images/people/zhaopian.jpg" name="吴宗骏" title="硕士三年级在读" %}
 
 		{% include member.html photo="../images/people/zhaopian.jpg" name="袁园" title="硕士三年级在读." %}
+
+		{% include member.html photo="../images/people/zhaopian.jpg" name="李启磊" title="硕士二年级在读" %}
+
+		{% include member.html photo="../images/people/zhaopian.jpg" name="其他" title="硕士二年级在读" %}
+
+		{% include member.html photo="../images/people/zhaopian.jpg" name="其他" title="硕士一年级在读" %}
+
+		{% include member.html photo="../images/people/zhaopian.jpg" name="其他" title="硕士一年级在读." %}
 
 	</div>
 </div>
