@@ -3,16 +3,16 @@
 <?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000//</id>
-	<title>CVAI Lab</title>
-	<updated>2019-04-13T20:19:18+08:00</updated>
+	<title>SIGMA Lab</title>
+	<updated>2019-04-13T20:47:12+08:00</updated>
 
-	<subtitle>欢迎访问四川大学人工智能与计算机视觉课题组</subtitle>
+	<subtitle>Welcome to the homepage of the SIGMA Lab at the Univeristy of Sydney</subtitle>
 
 	
 		
 		<author>
 			
-				<name>李启磊</name>
+				<name>Shuyang Sun</name>
 			
 			
 			
