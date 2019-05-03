@@ -41,7 +41,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-		{% include member.html photo="../images/people/zhaopian.jpg" homepage="https://www.researchgate.net/profile/Lihua_Jian4?_sg=-oARJi0tQzWfUxScIVrruVkBidJ4OImanD3l2SNiHdvWA8CncNVUv6ljTFRyCDkwZvw9Mgzlr-b3slkPHFUY-oFy3rXBOrH7" name="简立华" title="博士二年级在读" %}
+		{% include member.html photo="../images/people/jianlihua.jpg" homepage="https://www.researchgate.net/profile/Lihua_Jian4?_sg=-oARJi0tQzWfUxScIVrruVkBidJ4OImanD3l2SNiHdvWA8CncNVUv6ljTFRyCDkwZvw9Mgzlr-b3slkPHFUY-oFy3rXBOrH7" name="简立华" title="博士二年级在读" %}
 
 		{% include member.html photo="../images/people/liufeiqiang.jpg" name="刘飞强" title="博士一年级在读" %}
 		
@@ -66,7 +66,7 @@ permalink: "/people/"
 	
 		{% include member.html photo="../images/people/wuzongjun.jpg" name="吴宗骏" title="硕士三年级在读" %}
 	
-		{% include member.html photo="../images/people/zhaopian.jpg" name="袁园" title="硕士三年级在读." %}
+		{% include member.html photo="../images/people/yuanyuan.jpg" name="袁园" title="硕士三年级在读." %}
 		
 	</div>
 </div>
@@ -97,7 +97,7 @@ permalink: "/people/"
 	<div class="row">
 {% include member.html photo="../images/people/liqilei.jpg" homepage="https://liqilei.github.io/scholar/" name="李启磊" title="硕士二年级在读" %}
 {% include member.html photo="../images/people/luozubing.jpg" name="罗祖兵" title="硕士二年级在读" %}
-{% include member.html photo="../images/people/zhaopian.jpg" name="孟伟华" title="硕士二年级在读" %}
+{% include member.html photo="../images/people/mengweihua.png" name="孟伟华" title="硕士二年级在读" %}
 {% include member.html photo="../images/people/wangchengkai.jpg" name="王成凯" title="硕士二年级在读" %}
 	</div>
 </div>
@@ -111,8 +111,8 @@ permalink: "/people/"
 
 	<div class="row">
 {% include member.html photo="../images/people/weishuaifang.jpg" name="韦帅方" title="硕士二年级在读" %}
-{% include member.html photo="../images/people/zhaopian.jpg" name="吴少武" title="硕士二年级在读" %}
-{% include member.html photo="../images/people/zhaopian.jpg" name="谢长江" title="硕士二年级在读" %}
+{% include member.html photo="../images/people/wushaowu.jpg" name="吴少武" title="硕士二年级在读" %}
+{% include member.html photo="../images/people/xiechangjiang.jpg" name="谢长江" title="硕士二年级在读" %}
 {% include member.html photo="../images/people/yangchi.jpg" name="杨驰" title="硕士二年级在读" %}
 	</div>
 </div>
@@ -127,7 +127,7 @@ permalink: "/people/"
 	<div class="row">
 {% include member.html photo="../images/people/yeshuang.jpg" name="叶双" title="硕士二年级在读" %}
 {% include member.html photo="../images/people/yujihui.jpg" name="余继辉" title="硕士二年级在读" %}
-{% include member.html photo="../images/people/zhaopian.jpg" name="张文炽" title="硕士二年级在读" %}
+{% include member.html photo="../images/people/zhangwenchi.jpg" name="张文炽" title="硕士二年级在读" %}
 {% include member.html photo="../images/people/blank.jpg" name="" title="" %}
 	</div>
 </div>
