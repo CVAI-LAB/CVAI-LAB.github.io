@@ -131,7 +131,62 @@ permalink: "/people/"
 {% include member.html photo="../images/people/blank.jpg" name="" title="" %}
 	</div>
 </div>
+---
 
+<div class="row">
+	<div class="row">
+		<br/>
+	</div>
+
+	<div class="row">
+{% include member.html photo="../images/people/fushipeng.jpg" name="付仕鹏" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/hushenghui.jpg" name="胡声辉" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/liuyudan.jpg" name="刘雨丹" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/maoqingyu.jpg" name="毛青宇" title="硕士一年级在读" %}
+	</div>
+</div>
+---
+
+<div class="row">
+	<div class="row">
+		<br/>
+	</div>
+
+	<div class="row">
+{% include member.html photo="../images/people/blank.jpg" name="唐瑞" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/wangmengjie.jpg" name="汪梦洁" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/wangle.jpg" name="王乐" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/wangrenjie.jpg" name="王仁杰" title="硕士一年级在读" %}
+	</div>
+</div>
+---
+
+<div class="row">
+	<div class="row">
+		<br/>
+	</div>
+
+	<div class="row">
+{% include member.html photo="../images/people/wenyu.jpg" name="温雨" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/wulei.jpg" name="吴蕾" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/zhangqiao.jpg" name="张奇骜" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/zhouyinan.jpg" name="周祎楠" title="硕士一年级在读" %}
+	</div>
+</div>
+---
+<div class="row">
+	<div class="row">
+		<br/>
+	</div>
+
+	<div class="row">
+{% include member.html photo="../images/people/zhujiahui.jpg" name="朱佳辉" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/zouyiye.jpg" name="邹艺业" title="硕士一年级在读" %}
+
+		{% include member.html %}
+		{% include member.html %}
+	</div>
+</div>
 ---
 
 <div class="row">
