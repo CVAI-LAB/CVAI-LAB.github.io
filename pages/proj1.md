@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "First Project"
-subheadline: "How to use Feeling Responsive"
+title: "基于深度学习的图像超分辨率"
+subheadline: "基于深度学习的图像超分辨率"
 permalink: "/proj1/"
 ---
 # 基于深度学习的图像超分辨率
