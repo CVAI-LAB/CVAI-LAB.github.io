@@ -153,7 +153,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-{% include member.html photo="../images/people/blank.jpg" name="唐瑞" title="硕士一年级在读" %}
+{% include member.html photo="../images/people/tangrui.jpg" name="唐瑞" title="硕士一年级在读" %}
 {% include member.html photo="../images/people/wangmengjie.jpg" name="汪梦洁" title="硕士一年级在读" %}
 {% include member.html photo="../images/people/wangle.jpg" name="王乐" title="硕士一年级在读" %}
 {% include member.html photo="../images/people/wangrenjie.jpg" name="王仁杰" title="硕士一年级在读" %}
