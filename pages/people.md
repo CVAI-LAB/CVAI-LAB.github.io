@@ -182,8 +182,6 @@ permalink: "/people/"
 	<div class="row">
 {% include member.html photo="../images/people/zhujiahui.jpg" name="朱佳辉" title="硕士一年级在读" %}
 {% include member.html photo="../images/people/zouyiye.jpg" name="邹艺业" title="硕士一年级在读" %}
-{% include member.html photo="../images/sr.jpg" name="邹艺业" title="硕士一年级在读" %}
-
 		{% include member.html %}
 		{% include member.html %}
 	</div>
