@@ -6,7 +6,7 @@ header:
   image_fullwidth:
 title: "CVAI Lab @ SDUT"
 
-show_meta: false
+show_meta: true
 
 title: "project"
 
@@ -19,10 +19,10 @@ permalink: "/project/"
 
 
 widget1:
-  title: "项目1"
-  url: "/people/"
+  title: "基于深度学习的图像超分辨率"
+  url: "/proj1/"
   image: widget-1-302x182.jpg
-  text: '介绍1.'
+  text: '使用深度神经网络对图像进行超分辨率'
 widget2:
   title: "项目2"
   url: '/publication/'
