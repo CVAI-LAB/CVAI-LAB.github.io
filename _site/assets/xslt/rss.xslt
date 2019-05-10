@@ -138,6 +138,14 @@
 
           
           
+            
+            
+              <li class="divider"></li>
+              <li><a  href="http://localhost:4000/publication/">English Version</a></li>
+
+            
+            
+          
         
         
       </ul>
@@ -197,7 +205,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/project/">项目</a></li>
+              <li><a  href="http://localhost:4000/recruitment/">招募</a></li>
               <li class="divider"></li>
 
             
@@ -208,15 +216,6 @@
               
 
           
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/recruitment/">招募</a></li>
-              <li class="divider"></li>
-
-            
-            
           
         
         

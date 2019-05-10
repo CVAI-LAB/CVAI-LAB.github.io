@@ -10,9 +10,17 @@
   url: "/publication/"
   side: left
 
-- title: "项目"
-  url: "/project/"
+- title: 招募
+  url: "/recruitment/"
   side: left
+
+- title: "English Version"
+  url: "/publication/"
+  side: right
+
+# - title: "项目"
+#   url: "/project/"
+#   side: left
 
   #dropdown:
   #- title: "Grid & Colors"
@@ -54,9 +62,7 @@
   #   url: "/design/no-header-but-image/"
 
 
-- title: 招募
-  url: "/recruitment/"
-  side: left
+
 
 # - title: Resources
 #   url: "/resources/"

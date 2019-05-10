@@ -25,18 +25,18 @@ sidebar: right
 widget1:
   title: "成员"
   url: "/people/"
-  image: widget-1-302x182.jpg
+  image: widget-1-302x182-bk.jpg
   # text: 'Check out our demo for multi-person <br/> pose estimation!'
 widget2:
   title: "著作"
   url: '/publication/'
   # text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
-  image: widget-1-302x182.jpg
+  image: widget-1-302x182-bk.jpg
 
 widget3:
-  title: "项目"
-  url: '/project/'
-  image: widget-1-302x182.jpg
+  title: "加入我们"
+  url: '/recruitment/'
+  image: widget-1-302x182-bk.jpg
   # text: 'Our team won the 2nd place in the pose-track challenge.'
 
 
