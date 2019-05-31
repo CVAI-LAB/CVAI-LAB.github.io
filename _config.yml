@@ -45,7 +45,7 @@ urlimg: 'https://cvai-lab.github.io/images/'
 logo: "index_text.png"
 
 # Gems
-gems:
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
