@@ -32,7 +32,6 @@ permalink: "/people/"
 </div>
 
 
-
 ---
 
 
@@ -41,18 +40,20 @@ permalink: "/people/"
 		<h3 class="medium-12">博士研究生</h3>
 		<br/>
 	</div>
-	<div class="row">
-		{% include member.html photo="../images/people/jianlihua.jpg" homepage="https://www.researchgate.net/profile/Lihua_Jian4?_sg=-oARJi0tQzWfUxScIVrruVkBidJ4OImanD3l2SNiHdvWA8CncNVUv6ljTFRyCDkwZvw9Mgzlr-b3slkPHFUY-oFy3rXBOrH7" name="简立华" title="博士二年级在读" %}
 
-		{% include member.html photo="../images/people/liufeiqiang.jpg" name="刘飞强" title="博士一年级在读" %}
+	<div class="row">
+	{% include member.html photo="../images/people/jianlihua.jpg" homepage="https://www.researchgate.net/profile/Lihua_Jian4?_sg=-oARJi0tQzWfUxScIVrruVkBidJ4OImanD3l2SNiHdvWA8CncNVUv6ljTFRyCDkwZvw9Mgzlr-b3slkPHFUY-oFy3rXBOrH7" name="简立华" title="博士三年级在读" %}
+
+
+		{% include member.html photo="../images/people/liufeiqiang.jpg" name="刘飞强" title="博士二年级在读" %}
 		
 		{% include member.html %}
 		
 		{% include member.html %}
 	</div>
 </div>
+<hr/>
 
----
 
 <div class="row">
 	<div class="row">
@@ -81,12 +82,12 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-	{% include member.html photo="../images/people/liqilei.jpg" homepage="https://liqilei.github.io/scholar/" name="李启磊" title="硕士三年级在读" %}
+	{% include member.html photo="../images/people/liqilei.jpg" homepage="https://liqilei.github.io" name="李启磊" title="硕士三年级在读" %}
 	{% include member.html photo="../images/people/luozubing.jpg" name="罗祖兵" title="硕士三年级在读" %}
 	{% include member.html photo="../images/people/mengweihua.png" name="孟伟华" title="硕士三年级在读" %}
 	{% include member.html photo="../images/people/wangchengkai.jpg" name="王成凯" title="硕士三年级在读" %}
 		</div>
-	
+
 ​	</div>
 
 <div class="row">
@@ -118,7 +119,7 @@ permalink: "/people/"
 		</div>
 </div>
 
-
+<hr/>
 
 <div class="row">
 	<div class="row">
@@ -158,8 +159,9 @@ permalink: "/people/"
 	{% include member.html photo="../images/people/zhouyinan.jpg" name="周祎楠" title="硕士二年级在读" %}
 		</div>
 
-
 </div>
+
+
 
 <div class="row">
 	<div class="row">
@@ -173,21 +175,20 @@ permalink: "/people/"
 	{% include member.html %}
 	</div>
 </div>
+<hr/>
+
 
 <div class="row">
 	<div class="row">
 		<br/>
 	</div>
 
-```
-<div class="row">
-{% include member.html photo="../images/people/laizhibing.jpg" name="赖治兵" title="硕士一年级在读" %}
-{% include member.html photo="../images/people/yuqiang.jpg" name="余强" title="硕士一年级在读" %}
-{% include member.html photo="../images/people/wanglining.jpg" name="王历宁" title="硕士一年级在读" %}
-{% include member.html  photo="../images/people/mengbin.jpg" name="孟彬" title="硕士一年级在读" %}
-</div>
-```
-
+   <div class="row">
+		{% include member.html photo="../images/people/laizhibing.jpg" name="赖治兵" title="硕士一年级在读" %}
+		{% include member.html photo="../images/people/yuqiang.jpg" name="余强" title="硕士一年级在读" %}
+		{% include member.html photo="../images/people/wanglining.jpg" name="王历宁" title="硕士一年级在读" %}
+		{% include member.html  photo="../images/people/mengbin.jpg" name="孟彬" title="硕士一年级在读" %}
+	</div>
 </div>
 
 <div class="row">
@@ -195,18 +196,15 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-```
-<div class="row">
-{% include member.html photo="../images/people/zhouyang.jpg" name="周杨" title="硕士一年级在读" %}
-{% include member.html photo="../images/people/yanghaoran.jpg" name="杨浩然" title="硕士一年级在读"%}{% include member.html photo="../images/people/hezheng.jpg" name="何铮" title="硕士一年级在读" %}
-{% include member.html  photo="../images/people/tongjiahui.jpg" name="童嘉蕙" title="硕士一年级在读" %}
+
+	<div class="row">
+		{% include member.html photo="../images/people/zhouyang.jpg" name="周杨" title="硕士一年级在读" %}
+		{% include member.html photo="../images/people/yanghaoran.jpg" name="杨浩然" title="硕士一年级在读"%}
+		{% include member.html photo="../images/people/hezheng.jpg" name="何铮" title="硕士一年级在读" %}
+		{% include member.html  photo="../images/people/tongjiahui.jpg" name="童嘉蕙" title="硕士一年级在读" %}
+	</div>
 </div>
-```
-
-</div>
-
-
-
+<hr/>
 <div class="row">
 	<div class="row">
 		<h3 class="medium-12">往届生</h3>
@@ -221,3 +219,5 @@ permalink: "/people/"
 		{% include collaborator.html name="李震" affil="毕业于2019年6月，就读于南开大学" %}
 		{% include collaborator.html name="吴宗骏" affil="毕业于2019年6月，就职于百度" %}
 		{% include collaborator.html name="袁园" affil="毕业于2019年6月，就职于华为" %}
+
+
